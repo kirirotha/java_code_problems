@@ -19,3 +19,8 @@ class LongestConsec {
       return longest;
     }
 }
+
+/* Here is a comment **** */
+/* This is also a comment /* More comments */ */
+/* This is also a comment // More comments */
+// /* This is a // // comment */
